@@ -16,5 +16,6 @@
 
 - Clone the repo
   `https://github.com/coldn00dles/figr-assessment.git`
-- (Windows Only) If you have Ollama already, go to your environmental variables and change the variable `OLLAMA_HOST` to `localhost:8080`
+- (Windows Only) If you have Ollama already, go to your environmental variables and change the variable `OLLAMA_HOST` to `localhost:8080`. Make sure to run `ollama pull llama3.1:latest` if you dont have the required model.
+- Enter the repository folder and run `ollama create codeagent-llama -f Makefile`
 - Run `py main.py`
