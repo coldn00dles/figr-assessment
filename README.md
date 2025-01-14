@@ -4,8 +4,8 @@
 ## Video Demo 
 [!](https://github.com/user-attachments/assets/46ac59f2-667f-4d70-a010-834d40b5cd18)
 
-## Sample Screenshot
-[!](https://github.com/coldn00dles/figr-assessment/blob/master/assets/sample_1.png)
+## Sample Screenshot (of another question)
+![](https://github.com/coldn00dles/figr-assessment/blob/master/assets/sample_1.png?raw=true)
 
 ## Local Installation Instructions (if needed)
 
